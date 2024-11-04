@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'flight-web-app.onrender.com',
+    'flight-web-App.onrender.com',
 ]
 
 
